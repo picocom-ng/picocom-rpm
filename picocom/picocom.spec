@@ -1,5 +1,5 @@
 Name:           picocom
-Version:        4.2.2
+Version:        4.2.3
 Epoch:          1
 Release:        1%{?dist}
 Summary:        Minimal serial communications program
@@ -42,6 +42,9 @@ exit 0
 %{_mandir}/man1/*
 
 %changelog
+* Sun Aug 13 2023 Lars Kellogg-Stedman <lars@oddbit.com> 4.2.3-1
+- new package built with tito
+
 * Sun Aug 13 2023 Lars Kellogg-Stedman <lars@oddbit.com> - 4.2.2-1
 - Update to 4.2.2.
 
