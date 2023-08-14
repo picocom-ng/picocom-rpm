@@ -42,6 +42,9 @@ exit 0
 %{_mandir}/man1/*
 
 %changelog
+* Sun Aug 13 2023 Lars Kellogg-Stedman <lars@oddbit.com> 4.2.2-1
+- new package built with tito
+
 * Sun Aug 13 2023 Lars Kellogg-Stedman <lars@oddbit.com> - 4.2.2-1
 - Update to 4.2.2.
 
