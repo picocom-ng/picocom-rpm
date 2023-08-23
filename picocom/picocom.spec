@@ -42,6 +42,9 @@ exit 0
 %{_mandir}/man1/*
 
 %changelog
+* Wed Aug 23 2023 Lars Kellogg-Stedman <lars@oddbit.com> 4.0.3-1
+- new package built with tito
+
 * Fri Jul 21 2023 Fedora Release Engineering <releng@fedoraproject.org> - 3.1-14
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_39_Mass_Rebuild
 
